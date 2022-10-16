@@ -45,9 +45,12 @@ Palak - https://twitter.com/palakj_03
 Soumili 
 @sequin_lush
 
+
+Codess Cafe is a great place for leeaning new things and to make new connections with similar interests in computer science field
+
 [Meme](https://miro.medium.com/max/600/0*Y602BVKpn-ek3V5P.png)
-=======
+
 # Codess.Cafe
 Aashi
 @aashigoel71203
-]
+
