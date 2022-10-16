@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<p>Hey! My name is Priya</p>
+  <p>insta handle :priyamalik630 </p>
+  <p>Here is a meme :P</p>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsharechat.com%2Ftag%2FjweqN%2Ffresh&psig=AOvVaw15gFB545P3-2XOMObnZeGU&ust=1665990307261000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCn19yX5PoCFQAAAAAdAAAAABAS" width="128" height="128">
+  
+  </body>
+</html>
