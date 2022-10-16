@@ -19,3 +19,5 @@ Hello Tejal's first open source contri
 # Codess.Cafe
 Soumili 
 @sequin_lush
+
+Codess Cafe is a great place for leeaning new things and to make new connections with similar interests in computer science field
